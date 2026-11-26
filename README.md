@@ -105,7 +105,8 @@ Tools & Platforms
 
 🌐 My Portfolio Website
 
-![Portfolio](https://img.shields.io/badge/Explore-My_Portfolio-00C896?style=for-the-badge&logo=google-chrome&logoColor=white)
+[![My Portfolio](https://img.shields.io/badge/Explore-My_Portfolio-00C896?style=for-the-badge&logo=google-chrome&logoColor=white)](https://charanbabu321.github.io/portfolio-website/)
+
 
 Showcasing my work, skills, and journey as a developer.
 
