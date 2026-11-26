@@ -111,6 +111,24 @@ Showcasing my work, skills, and journey as a developer.
 
 </div>
 
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+<a href="https://github.com/charanbabu321">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=charanbabu321&repo=charanbabu321&theme=github_dark&hide_border=true" width="400" alt="GitHub Profile Repository"/>
+</a>
+
+<br/><br/>
+
+<a href="https://charanbabu321.github.io/portfolio-website/">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00C896?style=for-the-badge" alt="Visit Portfolio"/>
+</a>
+
+</div>
+
+
 <!--
 Add your other repositories below.
 Replace the example owner/repository values with your actual projects.
