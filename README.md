@@ -92,9 +92,10 @@ Tools & Platforms
 
 🏆 GitHub Achievements
 
+
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=charanbabu321&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=charanbabu321&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub Trophies" />
 
 </div>
 
