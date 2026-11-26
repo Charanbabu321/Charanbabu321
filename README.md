@@ -143,3 +143,12 @@ Replace the example owner/repository values with your actual projects.
 If you like my work, consider giving my repositories a ⭐
 
 </div>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/charanbabu321/charanbabu321/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</div>
+
