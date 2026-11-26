@@ -99,9 +99,9 @@ Tools & Platforms
 
 </div>
 
-<h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
+
+<div align="left">
 
 🌐 My Portfolio Website
 
