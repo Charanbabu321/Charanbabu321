@@ -90,14 +90,25 @@ Tools & Platforms
 
 </div>
 
-🏆 GitHub Achievements
 
+<h2 align="center">🏆 GitHub Achievements & Highlights</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=charanbabu321&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub Trophies" />
+<a href="https://github.com/charanbabu321">
+<img src="https://img.shields.io/github/followers/charanbabu321?style=for-the-badge&logo=github&label=Followers&color=00C896" />
+</a>
+
+<a href="https://github.com/charanbabu321?tab=repositories">
+<img src="https://img.shields.io/github/stars/charanbabu321?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=yellow" />
+</a>
+
+<a href="https://github.com/charanbabu321?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My%20Repositories-blue?style=for-the-badge&logo=github" />
+</a>
 
 </div>
+
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -115,20 +126,6 @@ Explore my portfolio to discover the projects I've built, my skills, and my jour
 </a>
 </p>
 
-
-
-
-
-
-
-<!--
-Add your other repositories below.
-Replace the example owner/repository values with your actual projects.
-
-<a href="https://github.com/charanbabu321/calculator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=charanbabu321&repo=YOUR_REPOSITORY&theme=dark" />
-</a>
--->
 
 🤝 Connect With Me
 
