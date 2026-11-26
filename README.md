@@ -99,18 +99,23 @@ Tools & Platforms
 
 </div>
 
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+Explore my portfolio to discover the projects I've built, my skills, and my journey as a Frontend Developer!
+</p>
+
+<p align="center">
+<b>✨ Curious about my work? Visit my portfolio and explore my projects!</b>
+</p>
+
+<p align="center">
+<a href="https://charanbabu321.github.io/portfolio-website/">
+<img src="https://img.shields.io/badge/🌐_Explore_My_Projects-00C896?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Explore My Projects"/>
+</a>
+</p>
 
 
-<div align="center">
-
-🌐 My Portfolio Website
-
-[![My Portfolio](https://img.shields.io/badge/Explore-My_Portfolio-00C896?style=for-the-badge&logo=google-chrome&logoColor=white)](https://charanbabu321.github.io/portfolio-website/)
-
-
-Showcasing my work, skills, and journey as a developer.
-
-</div>
 
 
 
@@ -120,7 +125,7 @@ Showcasing my work, skills, and journey as a developer.
 Add your other repositories below.
 Replace the example owner/repository values with your actual projects.
 
-<a href="https://github.com/charanbabu321/YOUR_REPOSITORY">
+<a href="https://github.com/charanbabu321/calculator">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=charanbabu321&repo=YOUR_REPOSITORY&theme=dark" />
 </a>
 -->
